@@ -302,6 +302,26 @@ main {
   min-height: 400px;
 }
 
+/*quienes somos*/
+.titulo-quienessomos {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.respuesta {
+  text-align: center;
+  align-items: center;
+  color: rgb(146, 125, 99);
+  background-color: bisque;
+}
+
+.swiffy-slider {
+  max-width: 60%;
+  height: 60%;
+  margin-left: 20%;
+}
+
 /* Edición Logo*/
 .logo {
   width: 550px;
