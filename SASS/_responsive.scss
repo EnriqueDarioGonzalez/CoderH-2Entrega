@@ -1,0 +1,88 @@
+@media (max-width: 480px) {
+    .footer-containernav ul{
+        display: flex;
+        align-items: center;
+        padding: 0 50px 50px 0;
+    }
+    .footer-containernav ul li {
+        width: 100%;
+        text-align: center;
+        margin: 5px;
+    }
+    .logo {
+        visibility: hidden;
+    }
+    .bienvenido-index {
+        width: auto;
+        font-size: 20px;
+    }
+    .texto-index p {
+        padding-top: 20px;
+    }
+    .navbar-toggler {
+        margin-bottom: 10px;
+        border: 2px solid;
+    }
+    .parent {
+        max-width: fit-content;
+        max-height: fit-content;
+    }
+    .nav {
+        padding-right: 60px;
+        position: absolute;
+    }
+    .container-fluid {
+        flex-wrap: wrap-reverse !important;
+    }
+    .bienvenido-title {
+        margin-right: 30px;
+    }
+    .cuerpo-web-index {
+        text-align: center;
+        }
+    .bienvenido-index {
+        text-align: center;
+        }
+    .cuerpo-web-index2 {
+        text-align: center;
+        }
+    .footer-containernav {
+        display: block;
+        width: auto;
+        margin-top: 0;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .footer-redes {
+        display: block;
+    }
+    .footer-redes ul li a p {
+        text-align: center;
+        font-size: large;
+        padding-left: 5px ;
+    }
+    footer div ul li img {
+        width: 32px;
+        height: 32px;
+    }
+    .titulo-tratamientos {
+        text-align: center;
+    }
+    .div1 , .div2 , .div3 {
+        width: 99px;
+        height: 101px;
+        padding-left: 15px;
+    }
+    .div4 , .div5 , .div6 {
+        width: 119px;
+        height: 18px;
+        padding: 4px;
+    }
+    .swiffy-slider {
+        width: 320px;
+        height: 200px;
+    }
+    .nav-link {
+        color: black;
+    }
+    }

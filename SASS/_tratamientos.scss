@@ -1,0 +1,27 @@
+/*Tratamientos*/
+
+.titulo-tratamientos {
+    display: flex;
+    justify-content: center;
+}
+
+
+.accordion-header button {
+    background-color: rgb(235, 228, 219);
+    color: black;
+    text-decoration: solid;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+}
+
+.accordion-item .accordion-header button {
+    color:rgb(146, 125, 99) ;
+    float: right;
+}
+
+.accordion-button-span {
+    width: 200px;
+    margin-left: calc(50% - 100px);
+}
+
+

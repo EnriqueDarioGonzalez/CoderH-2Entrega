@@ -1,0 +1,45 @@
+/*Edición FOOTER*/
+footer {
+    display: flex;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+footer div ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+footer div ul li  {
+    font-size: 18px;
+    text-align: center;
+}
+footer div ul li img {
+    width: 40px;
+    height: 40px;
+}
+.footer-redes ul li a p {
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+    justify-content: flex-end;
+    color: rgb(143, 142, 142);
+}
+.footer-redes {
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    flex-direction: row;
+    align-items: flex-end;
+    align-content: flex-end;
+    padding-top: 50px;
+}
+.footer-navbar ul li a {
+    color: rgb(255, 255, 255);
+}
+.copyright {
+    display: flex;
+    justify-content: center;
+}
+.copyright p {
+    color: black;
+}
